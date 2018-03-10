@@ -1,4 +1,6 @@
 # Sleep and Breathing website
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/EuropeanRespiratorySociety/congress.svg)](https://greenkeeper.io/)
 Website for the Sleep and Breathing Conference 2018
 
 * It will integrate with Cloud CMS for the content and menus will be managed from there too.
